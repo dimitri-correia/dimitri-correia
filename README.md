@@ -1,4 +1,4 @@
-<img src="assets/welcome.png"></img>
+<img src="welcome.png"></img>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=500&color=134459&center=true&vCenter=true&random=false&width=900&height=200&lines=Welcome+to+my+profile+Github;My+name+is+Dimitri+CORREIA;I+am+a+24-year-old+computer+science+enthusiast;I+am+currently+pursuing+a+Master's+degree+in+Engineering+at+IMT+Atlantique;I+aspire+to+work+as+a+full-time+back-end+developer"></img>
 
