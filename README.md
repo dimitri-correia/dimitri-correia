@@ -25,14 +25,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="80" height="80" style="background-color: white;" />
 </p>
 
-I mainly work on backend systems, APIs, and scalable software solutions. I enjoy building efficient, maintainable, and robust code using modern tools and languages.
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitri-correia&theme=radical&layout=compact" />
-
 ---
 
 ### 🔗 Connect with Me
